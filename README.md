@@ -18,4 +18,4 @@ To set up you will need a IR remote and an IR sensor. IR sensors usually have 3 
 IR remotes and sensore can be found in lots of places. The most common ones are in TVs so if you have an old TV you are getting rid of you can cut out the IR sensor and keep the TV remote for controlling your robotics. An IR sensor looks like the picture below or you can buy one from amazon here: https://www.amazon.com/Gikfun-avoidance-Reflective-Photoelectric-Intensity/dp/B07FJLMLVZ/ref=asc_df_B07FJLMLVZ/?tag=hyprod-20&linkCode=df0&hvadid=242021018855&hvpos=&hvnetw=g&hvrand=14274926094243320066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010937&hvtargid=pla-525961642959&psc=1 
 
 
-![alt text](https://github.com/dakotacobb/IRene/image.jpg?raw=true)
+![alt text](https://github.com/dakotacobb/IRene/IRsensor.jpg?raw=true)
