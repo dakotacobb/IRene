@@ -19,3 +19,6 @@ IR remotes and sensore can be found in lots of places. The most common ones are 
 IR sensors have 3 pins, power, ground, and a data line. The power can be 5 volts and is usually tolerant to higher voltages like 7 volts, but don't push your luck. 5 volts is the recommended (although it can depend on your sensor). I got this one from an old LED light controller and I measured the voltage that it provided to get the voltage it needed.
 
 <img src="IRsensor.jpg" width=300>
+
+### References
+https://os.mbed.com/cookbook/IR
